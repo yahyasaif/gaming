@@ -6,3 +6,10 @@ body {
 h1,h2 {
     text-align: center;
 }
+
+.container{
+    text-align: center;
+}
+.home-image{
+width: 50%;
+}

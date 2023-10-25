@@ -1,5 +1,6 @@
-body {
-    background-color: rgb(111, 90, 146);
+html, body {
+    background-color: rgb(209, 149, 80);
+    font-weight: bold;
     color: rgb(97, 234, 106);
 }
 p{

@@ -1,6 +1,6 @@
-body {
-    background-color: rgb(111, 90, 146);
-    color: rgb(97, 234, 106);
+html, body {
+    background-color: rgb(14, 141, 33);
+    color: rgb(225, 234, 97);
 }
 p{
     color: aqua;

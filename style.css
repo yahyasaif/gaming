@@ -1,6 +1,7 @@
 html, body {
-    background-color: rgb(14, 141, 33);
-    color: rgb(225, 234, 97);
+    background-color: rgb(209, 149, 80);
+    font-weight: bold;
+    color: rgb(97, 234, 106);
 }
 p{
     color: aqua;
